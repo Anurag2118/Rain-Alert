@@ -40,7 +40,7 @@ Also, checking weather apps early in the morning isn't always feasible due to a 
 
 ## Tech Stack
 
-- Pandas
+- Python
 - Twilio API  
 - OpenWeather API  
 - Requests  
